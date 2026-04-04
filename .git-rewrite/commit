@@ -1,0 +1,6 @@
+tree 9568a1bfdf8399465fd4aebbe4f8bff262ea98a9
+parent d4e7f40e77dabc815b18163b3ae7765e7ef6aeb9
+author cogito233 <cogito@connect.hku.hk> 1745632485 -0400
+committer cogito233 <cogito@connect.hku.hk> 1745632485 -0400
+
+add extra filed to non tensor batch
