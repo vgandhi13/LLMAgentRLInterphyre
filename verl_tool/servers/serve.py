@@ -307,6 +307,7 @@ def create_router_app(worker_base_urls: List[str]) -> FastAPI:
         "trailers",
         "upgrade",
         "host",
+        "server",  # strip backend's Server header; router's FastAPI adds its own
     })
 
     @app.api_route(
